@@ -18,12 +18,12 @@ human-labeled data (~82% agreement), and the project includes a red-team suite m
 to the OWASP LLM and Agentic Top 10 and a sanitized live threat-intelligence feed.
 Python, Ollama, Streamlit, CI/CD.
 
-**[Micro-UAV Command-Stack Security]([https://github.com/fatemehazam-crypto/DroneTakeOver])** — reproducible research artifact
+**[Micro-UAV Command-Stack Security](https://github.com/fatemehazam-crypto/DroneTakeOver)** — reproducible research artifact
 Reproducibility package for my IEEE CARS 2026 paper, *Authority Contention in Micro-UAV
 Command Stacks.* Characterizes a class of command-stack vulnerabilities and provides a
 Random Forest detector (F1 = 0.906, 1.18% false-positive rate). Python, scikit-learn.
 
-**[Smart-City RF Monitoring]([https://github.com/fatemehazam-crypto/Smart-City-Projects/tree/main/smartcity-monitor])** — real-time event-driven platform
+**[Smart-City RF Monitoring](https://github.com/fatemehazam-crypto/Smart-City-Projects/tree/main/smartcity-monitor)** — real-time event-driven platform
 A full-stack platform that ingests telemetry from distributed sensors across multiple RF
 bands and streams it to a live dashboard with sub-second latency. Basis for my
 ThunderPlains 2026 talk on resilient event-driven systems. Node.js, React, MQTT, WebSockets.
