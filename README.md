@@ -1,16 +1,42 @@
-## Hi there 👋
+# Fatemeh Azam
 
-<!--
-**fatemehazam-crypto/fatemehazam-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer and applied security researcher. I turn ambiguous, real-world
+security problems into experiments, prototypes, and working systems.
 
-Here are some ideas to get you started:
+Published IEEE researcher in autonomous-systems security. Current focus: AI/LLM
+security, RF and counter-UAS, ML-based threat detection, and full-stack systems.
+Based in Tulsa, OK, at the Oklahoma Cyber Innovation Institute (University of Tulsa).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured work
+
+**[Reel Smart](https://github.com/<user>/reel-smart)** — AI phishing-awareness content engine
+A local-LLM pipeline that generates and scores phishing-training messages through a
+generate, score, and human-review loop. The clue detector is calibrated against
+human-labeled data (~82% agreement), and the project includes a red-team suite mapped
+to the OWASP LLM and Agentic Top 10 and a sanitized live threat-intelligence feed.
+Python, Ollama, Streamlit, CI/CD.
+
+**[Micro-UAV Command-Stack Security](https://github.com/<user>/micro-uav-command-security)** — reproducible research artifact
+Reproducibility package for my IEEE CARS 2026 paper, *Authority Contention in Micro-UAV
+Command Stacks.* Characterizes a class of command-stack vulnerabilities and provides a
+Random Forest detector (F1 = 0.906, 1.18% false-positive rate). Python, scikit-learn.
+
+**[Smart-City RF Monitoring](https://github.com/<user>/Smart-City-Projects)** — real-time event-driven platform
+A full-stack platform that ingests telemetry from distributed sensors across multiple RF
+bands and streams it to a live dashboard with sub-second latency. Basis for my
+ThunderPlains 2026 talk on resilient event-driven systems. Node.js, React, MQTT, WebSockets.
+
+---
+
+## Technical focus
+
+Python, JavaScript / React, Node.js, SQL. Machine learning with scikit-learn, XGBoost,
+and PyTorch. ROS 2, MQTT, Docker, GitHub Actions, local LLMs (Ollama), Linux.
+
+---
+
+## Links
+
+[Portfolio](https://fatemehazam.github.io) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/fatemeh-azam-1a219b55) &nbsp;·&nbsp; IEEE CARS 2026 — *Authority Contention in Micro-UAV Command Stacks*
