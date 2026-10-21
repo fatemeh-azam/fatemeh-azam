@@ -39,4 +39,4 @@ and PyTorch. ROS 2, MQTT, Docker, GitHub Actions, local LLMs (Ollama), Linux.
 
 ## Links
 
-[Portfolio](https://fatemehazam.github.io) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/fatemeh-azam-1a219b55) &nbsp;·&nbsp; IEEE CARS 2026 — *Authority Contention in Micro-UAV Command Stacks*
+[Portfolio](https://fatemehazam-crypto.github.io/fatemehazam.github.io/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/fatemeh-azam-1a219b55) &nbsp;·&nbsp; IEEE CARS 2026 — *Authority Contention in Micro-UAV Command Stacks*
