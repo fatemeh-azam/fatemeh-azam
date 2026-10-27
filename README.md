@@ -11,7 +11,7 @@ Based in Tulsa, OK, at the Oklahoma Cyber Innovation Institute (University of Tu
 
 ## Featured work
 
-**[Reel Smart](https://github.com/<user>/reel-smart](https://github.com/fatemehazam-crypto/reel-smart)** — AI phishing-awareness content engine
+**[Reel Smart](https://github.com/fatemehazam-crypto/reel-smart)** — AI phishing-awareness content engine
 A local-LLM pipeline that generates and scores phishing-training messages through a
 generate, score, and human-review loop. The clue detector is calibrated against
 human-labeled data (~82% agreement), and the project includes a red-team suite mapped
